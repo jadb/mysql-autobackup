@@ -1,0 +1,32 @@
+{
+	"name": "mysql/autobackup",
+	"type": "library",
+	"description": "Automatic MySQL Backup",
+	"keywords": ["mysql", "backup"],
+	"homepage": "https://github.com/jadb/mysql-autobackup",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Unknown",
+			"homepage": "http://sourceforge.net/projects/automysqlbackup",
+			"role": "Author"
+		},
+		{
+			"name": "Jad Bitar",
+			"homepage": "http://jadb.io",
+			"role": "Contributor"
+		},
+		{
+			"name": "Community",
+			"homepage": "https://github.com/jadb/mysql-autobackup/graphs/contributors"
+		}
+	],
+	"require": {
+		"amazonwebservices/aws-sdk-for-php": "1.6.0",
+		"composer/installers": "*"
+	},
+	"support": {
+		"issues": "https://github.com/jadb/mysql-autobackup/issues",
+		"source": "https://github.com/jadb/mysql-autobackup"
+	}
+}
