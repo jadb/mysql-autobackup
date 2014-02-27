@@ -8,11 +8,11 @@ A fork of http://sourceforge.net/projects/automysqlbackup/
 
 As a submodule:
 
-	git submodule add http://github.com/jadb/mysql-autobackup vendor/mysql-autobackup
+	git submodule add https://github.com/jadb/mysql-autobackup vendor/mysql-autobackup
 
 Or a clone:
 
-	git clone http://github.com/jadb/mysql-autobackup vendor/mysql-autobackup
+	git clone https://github.com/jadb/mysql-autobackup vendor/mysql-autobackup
 
 ### Composer
 
